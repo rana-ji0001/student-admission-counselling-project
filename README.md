@@ -1,2 +1,5 @@
-# student-admission-counselling-project
-To bring in 100% transparency and to make the admissions highly cost-effective and to minimize the travel by the candidates and parents, The Student Counseling System is designed to enhance the counseling experience during the admission process
+# Online-Admission-Counselling
+This is an addmission counselling system Java Swing.
+To run this project u need to install Netbeans with (java 1.8 ) recommended .
+Just Clone / Download And run
+This Project uses File System as database.
